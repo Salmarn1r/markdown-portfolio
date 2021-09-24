@@ -20,6 +20,9 @@ layout: default
     2. List Value
 3. List Value 3
 
+- List 1
+- List 2
+- List 3
 <br>
 
 {% include 05-emphasis.md %}
