@@ -24,5 +24,6 @@ layout: default
 - List 2
 - List 3
 <br>
-
-{% include 05-emphasis.md %}
+_C#_
+<br>
+**VB.Net**
