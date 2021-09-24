@@ -2,13 +2,28 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Aaron's Portfolio
 
 <br>
 
-{% include 02-image.md %}
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
-{% include 03-links.md %}
+[GitHub](https://www.github.com/Salmarn1r)
 
+<br>
+
+1. List Value 1
+2. List Value 2
+    1. List Value
+    2. List Value
+3. List Value 3
+
+- List 1
+- List 2
+- List 3
+<br>
+_C#_
+<br>
+**VB.Net**
